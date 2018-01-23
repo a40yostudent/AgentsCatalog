@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='AgentsCatalog'/>
+        <page name='Seek'/>
+        <page name='Wander'/>
+        <page name='Flee'/>
+        <page name='Avoid'/>
+        <page name='Separate'/>
+        <page name='Align'/>
+        <page name='Flock'/>
+        <page name='Path'/>
+    </pages>
+</playground>
